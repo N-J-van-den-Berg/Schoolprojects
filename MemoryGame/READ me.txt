@@ -1,0 +1,1 @@
+De opdracht was om een 4x4 memorygame the maken met javascript. 

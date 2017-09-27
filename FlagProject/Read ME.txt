@@ -1,0 +1,1 @@
+De bedoeling van dit project was om 5 vijf vlaggen te maken met alleen maar css.

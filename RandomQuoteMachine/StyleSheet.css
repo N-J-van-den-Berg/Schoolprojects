@@ -1,0 +1,24 @@
+.quoteBox {
+  margin: 0px 20% 10px 20%;
+  padding: 5px 15px 5px 15px;
+  border: 1px solid #bbb;
+  background-color: #F60594;
+  overflow:hidden;
+}
+
+.authors-name {
+  font-style: italic;
+  float: right;
+  display: block;
+  margin: 5px 0px 5px 0px;
+}
+
+#tweetButton a{
+  color:white;
+  color:inherit;
+  text-decoration:none;
+}
+#footer{ 
+  font-style: italic;
+  font-size: 20px;
+}

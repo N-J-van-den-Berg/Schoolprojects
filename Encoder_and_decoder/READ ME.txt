@@ -1,0 +1,6 @@
+In dit project moesten wij een encoder maken en een decoder die morse code vertaald naar
+Algemeen Beschaafd Nederlands(ABN). 
+
+Voor deze Opdracht MOET je een Applicatie server platform hebben.
+
+De Input moest ook autmatisch een tekstfile aanmaken.

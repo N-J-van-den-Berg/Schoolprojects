@@ -1,0 +1,13 @@
+.nav-pills { 
+	font-family: Bellefair;
+	font-size: 1.7em;
+ }
+
+ body { 
+ 	background-color: white;
+  }
+
+  .pageOne { 
+  	background:url("https://nl.images.search.yahoo.com/search/images?p=dodge+dog&fr=mcafee&imgurl=https%3A%2F%2Fs-media-cache-ak0.pinimg.com%2F736x%2F9e%2F82%2F03%2F9e8203bacc73b1591a2c31bec413332f.jpg#id=1&iurl=https%3A%2F%2Fs-media-cache-ak0.pinimg.com%2F736x%2F9e%2F82%2F03%2F9e8203bacc73b1591a2c31bec413332f.jpg&action=click");
+  	background-size: cover;
+   }

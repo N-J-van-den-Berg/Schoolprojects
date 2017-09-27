@@ -1,0 +1,3 @@
+Dit project moet de klas een slider maken met de JSlibary Jquery.
+
+Er moest een onhover event op de slider zitten.
