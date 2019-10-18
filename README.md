@@ -43,3 +43,11 @@ As soon as you make a commit, you can open a pull request and start a discussion
 By using GitHub’s @mention system in your pull request message, you can ask for feedback from specific people or teams,
 whether they’re down the hall or 10 time zones away.
 
+MERGE REQUEST TL:DR;
+
+In this final step, it’s time to bring your changes together – merging your readme-edits branch into the master branch.
+1. Click the green Merge pull request button to merge the changes into master.
+2. Click Confirm merge.
+3. Go ahead and delete the branch, since its changes have been incorporated, with the Delete branch button in the purple box.
+
+
